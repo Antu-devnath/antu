@@ -50,13 +50,13 @@ rahul/
 
 ## 📸 Screenshots
 ### 🔹 Home Page
-![Home Page](Assets/image.png)
+
 
 ### 🔹 Projects Section
-![Projects](Assets/projects.png)
+
 
 ### 🔹 About Me 
-![About Me](Assets/about_me.png)
+
 
 ## 🏆 Credits
 - **Google Fonts** - Typography
